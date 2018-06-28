@@ -43,47 +43,47 @@ include('includes/front/slider.php');?>
 
             <div class="col-sm-9 padding-right">
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Featured Items</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/featured-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Suits</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/suit-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Shirts</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/shirt-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Trousers</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/trouser-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Dresses</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/dress-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Ladies Tops</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/top-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Shoes</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/shoe-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Ankara</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/ankara-items.php');?>
                 </div><!--features_items-->
                 <div class="features_items"><!--features_items-->
-                    <h2 class="title text-center">Recommended Items</h2>
+                    <h2 class="title text-center"></h2>
                     <!-- Loop here -->
                     <?php include('includes/front/recommended-items.php');?>
                 </div><!--features_items-->

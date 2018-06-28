@@ -6,7 +6,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-1">
 					<div class="login-form"><!--login form-->
-						<h2>Login to your account</h2>
+						<h2>Have an Account? Login</h2>
 						<?php
 
             	//process login form if submitted
@@ -69,7 +69,7 @@
 				</div>
 				<div class="col-sm-4">
 					<div class="signup-form"><!--sign up form-->
-						<h2>New User Signup!</h2>
+						<h2>New User Signup Here!</h2>
 						<?php
 
           	//if form has been submitted process it
