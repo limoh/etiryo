@@ -1,4 +1,2 @@
 
-ErrorDocument 404 http://localhost/etiryo/404.php
-RewriteCond %{REQUEST_URI} ^/404/$
-RewriteRule ^(.*)$ /etiryo/404.php [L]
+allow from all
