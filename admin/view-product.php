@@ -85,7 +85,7 @@ $activeViewProduct = "active";
 														<td><?php echo $user->getCategory($item['Brand']) ?></td>
 														<td><?php echo $user->getBrand($item['Brand'])?></td>
 														<td><?php echo $item['Colour']; ?></td>
-														<td><img alt="product 1" tyle="width: 70px; height: 80px" src="../assets/uploads/<?php echo $item['Image'];?>"></td>
+														<td><img alt="product" tyle="width: 20px; height: 30px" src="../assets/uploads/<?php echo $item['Image'];?>"></td>
 														<td><?php echo $item['Quantity'] ;?></td>
 
 														<td>

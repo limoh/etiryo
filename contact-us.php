@@ -9,7 +9,7 @@ include('includes/front/header.php');?>
 	    		<div class="col-sm-12">
 					<h2 class="title text-center">Contact <strong>Us</strong></h2>
 					<div id="gmap" class="contact-map">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31916.296170035075!2d34.7600382171248!3d-0.680374118232295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182b3becb25f4161%3A0x44516a90c78b2db1!2sKisii%2C+Kenya!5e0!3m2!1sen!2s!4v1499084183126" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe src="https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1dJJwXFw9T8kSJyjDxHSkXzPIPy4&ll=-1.3112065661010681%2C36.80589449999991&z=14" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
@@ -46,7 +46,7 @@ include('includes/front/header.php');?>
 								<p>Tiryo Plaza</p>
 								<p>Eldoret</p>
 								<p>Mobile: +254 703849766</p>
-								<p>Email: info@4limo.tech</p>
+								<p>Email: limo@4limo.tech</p>
 	    				</address>
 	    				<div class="social-networks">
 	    					<h2 class="title text-center">Social Media Platform</h2>

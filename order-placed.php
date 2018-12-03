@@ -19,7 +19,7 @@ include('includes/front/header.php');?>
           <?php include('includes/front/sidebar.php');?>
 
             <div class="col-sm-9 padding-right">
-                <H2>Your oder has been placed succesfully!<H2>
+                <H2>Your order has been placed succesfully! Pay on delivery<H2>
             </div>
         </div>
     </div>

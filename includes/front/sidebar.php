@@ -20,7 +20,8 @@
       <div class="brands-name">
         <ul class="nav nav-pills nav-stacked">
           <?php foreach ($brands as $item) :?>
-          <li><a href="shop.php?brand=<?php echo $item['Brand'];?>"> <span class="pull-right">(<?php echo $item['NUM'];?>)</span><?php echo $user->getBrand($item['Brand']);?></a></li>
+          <li><a href="shop.php?brand=<?php echo $item['Brand'];?>"> <span class="pull-right">(<?php echo $item['NUM'];?>)</span>
+          <?php echo $user->getBrand($item['Brand']);?></a></li>
           <?php endforeach; ?>
         </ul>
       </div>

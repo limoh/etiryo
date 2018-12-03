@@ -166,13 +166,19 @@ include('includes/front/header.php');?>
 			</div>
 			<div class="payment-options">
 					<span>
-						<label><input type="checkbox"> Direct Bank Transfer</label>
+						<label><input type="radio" name="payment" value="bitcoin">Bitcoin</label>
 					</span>
 					<span>
-						<label><input type="checkbox"> Check Payment</label>
+						<label><input type="radio" name="payment" value="mpesa">M-Pesa</label>
 					</span>
 					<span>
-						<label><input type="checkbox"> Paypal</label>
+						<label><input type="radio" name="payment" value="paypal">Paypal</label>
+					</span>
+          <span>
+						<label><input type="radio" name="payment" value="visa">Visa</label>
+					</span>
+          <span>
+						<label><input type="radio" name="payment" value="master">Master card</label>
 					</span>
 				</div>
 		</div>
